@@ -1,0 +1,1 @@
+This code describes about the concert ticket booking. here the user can able to book a ticket to different concert. this source code is purely based on JAVA and also I have used some OOPS concepts in java.
